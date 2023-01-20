@@ -2,6 +2,6 @@
   "private": true,
   "type": "module",
   "devDependencies": {
-    "vitepress": "file:vitepress.tgz"
+    "vitepress": "link:../vitepress"
   }
 }
